@@ -32,9 +32,9 @@ password: shop
 ```
 
 #### Contributors
-1.[Mayukh Sil](https://www.github.com/mayukhsil)
-2.[Abhay RM](https://www.github.com/abhayrm20)
-3.[Bhanu Pratap](https://www.github.com/ibhanu)
+*[Mayukh Sil](https://www.github.com/mayukhsil)
+*[Abhay RM](https://www.github.com/abhayrm20)
+*[Bhanu Pratap](https://www.github.com/ibhanu)
 
 ![NullCrew](logo.png)
 # A NullCrew Project
